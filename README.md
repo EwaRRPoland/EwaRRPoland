@@ -12,12 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <a href="(https://www.linkedin.com/in/ewa-rostecka-rzonca/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ---
 
 ### About me:
@@ -27,7 +21,7 @@ Here are some ideas to get you started:
 - Throughout my career, I have consistently focused on continuous improvement.
 - If you are looking for a QA engineer with attention to detail, strong analytical skills, and a passion for delivering high-quality products, I would welcome the opportunity to connect.
 
-- :mailbox: You can contact me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewa-rostecka-rzonca/)
+- :mailbox: You can contact me:   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewa-rostecka-rzonca/)
 
 ---
 
