@@ -74,3 +74,13 @@ Here are some ideas to get you started:
 - Teamwork,
  
 - Good work organization.
+
+### Languages:
+
+- English-B1/B2,
+
+- Polish- Native,
+ 
+- German- A1,
+ 
+- Russian- A1.
