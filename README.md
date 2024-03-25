@@ -65,15 +65,25 @@ Here are some ideas to get you started:
  
 - Precision and attention to Detail,
  
-- Communication Skills,
+- Ability to work effectively individually and in a team,
  
-- Problem-Solving Skills,
+- Communication skills,
  
-- Analytical Thinking,
+- Conflict management skills,
  
-- Teamwork,
+- Critical and creative thinking skills,
  
-- Good work organization.
+- Decision-making skills,
+ 
+- Ability to identify and solve problems,
+ 
+- Effective listening skills,
+ 
+- Organizational skills,
+ 
+- Strong analytical thinking skills,
+ 
+- Time management skills.
 
 ### Languages:
 
