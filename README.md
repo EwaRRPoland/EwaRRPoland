@@ -57,7 +57,9 @@ Here are some ideas to get you started:
 
 - Black and White-Box Testing
 
-- Scrum, Agile.
+- Scrum, Agile
+  
+- JavaScript, Cypress.
 
 ### Soft Skills:
 
